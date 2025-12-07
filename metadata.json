@@ -1,0 +1,5 @@
+{
+  "name": "Pipeline Integrity AI Dashboard",
+  "description": "An interactive dashboard for monitoring pipeline integrity, visualizing risk matrices, and predicting Remaining Useful Life (RUL) using AI simulations.",
+  "requestFramePermissions": []
+}
